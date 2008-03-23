@@ -1,0 +1,3 @@
+
+
+Reflection is one of powerful instruments in high-level programming languages. To program, it basically means "I know who i am and what i am"
